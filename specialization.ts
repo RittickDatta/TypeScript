@@ -1,0 +1,1 @@
+export type Specialization = 'Frontend' | 'Backend' | 'Fullstack' | 'Devops' | 'Cyber Secuirty'
